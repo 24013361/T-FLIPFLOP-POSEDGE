@@ -32,9 +32,9 @@ From the above characteristic table, we can directly write the next state equati
 
 
 ## **PROGRAM**
-Developed by:Pugazhalenthi V
+Developed by: DEEPAK KUMAR V
 
-Register No:212224100047
+Register No:212224240029
 
 ```
 module pugal9(t, clk, rst, q);
